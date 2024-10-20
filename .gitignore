@@ -1,0 +1,60 @@
+# Hugo output directory
+/public/
+
+# Hugo cache directory
+/resources/
+
+# Ignore generated files
+/resources/_gen/
+
+# Ignore temporary files
+*.bak
+*.tmp
+
+# Ignore macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Ignore build artifacts
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+*.a
+*.o
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore log files
+*.log
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+.env.override
+.envrc
+.venv
+
+# Ignore dependency directories
+/node_modules/
+/vendor/
+/bower_components/
+/jspm_packages/
+
+# Ignore Obsidian cache
+/content/posts/.obsidian/
+
+# Ignore Vim swap files
+*.swp
+*.swo
+*.swn
