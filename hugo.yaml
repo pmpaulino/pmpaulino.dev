@@ -2,7 +2,8 @@ baseURL: https://pmpaulino.dev/
 languageCode: en-us
 title: pmpaulino.dev
 theme: PaperMod
-paginate: 5
+pagination:
+  pagerSize: 5
 
 # If your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would
 # contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
@@ -116,10 +117,10 @@ params:
 
   assets:
     disableHLJS: true
-  #     favicon: "<link / abs url>"
-  #     favicon16x16: "<link / abs url>"
-  #     favicon32x32: "<link / abs url>"
-  #     apple_touch_icon: "<link / abs url>"
+    favicon: "assets/favicon.ico"
+    favicon16x16: "assets/favicon-16x16.png"
+    favicon32x32: "assets/favicon-32x32.png"
+    apple_touch_icon: "assets/apple-touch-icon.png"
   #     safari_pinned_tab: "<link / abs url>"
 
   # cover:
