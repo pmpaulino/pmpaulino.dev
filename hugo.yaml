@@ -1,6 +1,6 @@
 baseURL: https://pmpaulino.dev/
 languageCode: en-us
-title: pmpaulino.dev
+title: Patrick Paulino
 theme: PaperMod
 pagination:
   pagerSize: 5
@@ -50,7 +50,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Patrick Paulino's personal blog"
+  description: "Personal Blog | Patrick Paulino"
   author: Patrick Paulino
   # author: ["Me", "You"] # multiple authors
 
