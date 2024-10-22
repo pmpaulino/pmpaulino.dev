@@ -1,6 +1,6 @@
 baseURL: https://pmpaulino.dev/
 languageCode: en-us
-title: Patrick Paulino
+title: "Patrick Paulino | DevOps Engineer Specializing in Cloud & Kubernetes"
 theme: PaperMod
 pagination:
   pagerSize: 5
@@ -50,7 +50,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Personal Blog | Patrick Paulino"
+  description: "Welcome to my personal blog where I explore tech, DevOps, and more."
   author: Patrick Paulino
   # author: ["Me", "You"] # multiple authors
 
@@ -73,7 +73,16 @@ params:
   profileMode:
     enabled: true
     title: Hey, I'm Patrick.
-    subtitle: "I'm a Lead DevOps Engineer with a passion for technology, adventure, and making meaningful connections. Whether conducting post-mortems or diving into Kubernetes, curiosity drives me. I'm a night owl who thrives on collaboration. Let’s connect, brainstorm, and tackle challenges together!" 
+    subtitle: |
+      I'm a Lead DevOps Engineer with a deep passion for technology, adventure, and making meaningful connections. Over the years, I've had the opportunity to work on a wide range of projects, from optimizing infrastructure to implementing cloud-native solutions like Kubernetes. My curiosity constantly drives me to explore new tools, refine processes, and solve complex problems. <br><br>
+      
+      I thrive on collaboration, especially in dynamic environments where teamwork and communication are essential. Whether it's conducting post-mortems to learn from past incidents or diving into cutting-edge technologies, I'm always looking for ways to innovate and improve. <br><br>
+
+      When I'm not working, you can often find me outdoors, seeking adventure through mountain biking, snowboarding, or exploring new trails. The challenges I face in these activities mirror my approach to engineering—always pushing the limits and striving for continuous improvement. <br><br>
+
+      As a night owl, I often find my best ideas come during those late hours, when I can focus deeply on complex problems or brainstorm fresh solutions. I believe in the power of strong teams and am always eager to connect with others who share a passion for learning and problem-solving. <br><br>
+
+      Let’s connect, exchange ideas, and tackle challenges together! I'm always open to new opportunities to collaborate, whether you're looking for advice, want to brainstorm solutions, or just share experiences from the world of DevOps.
     imageUrl: "https://gravatar.com/avatar/bbc05880ed2d059da2397bbb974649ee?size=256&cache=1715040048540"
     imageTitle: my image
     # imageWidth: 120
