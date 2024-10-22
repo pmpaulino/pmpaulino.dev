@@ -1,6 +1,6 @@
 baseURL: https://pmpaulino.dev/
 languageCode: en-us
-title: "Patrick Paulino"
+title: "Patrick Paulino's Blog"
 theme: PaperMod
 pagination:
   pagerSize: 5
@@ -50,7 +50,7 @@ outputs:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  description: "Welcome to my personal blog where I explore tech, DevOps, and more."
+  description: "Welcome to my personal blog where I share insights on DevOps, cloud-native solutions, and cutting-edge technology. Join me as I explore industry trends, share project experiences, and discuss tech challenges."
   author: Patrick Paulino
   # author: ["Me", "You"] # multiple authors
 
@@ -84,7 +84,7 @@ params:
 
       Let’s connect, exchange ideas, and tackle challenges together! I'm always open to new opportunities to collaborate, whether you're looking for advice, want to brainstorm solutions, or just share experiences from the world of DevOps.
     imageUrl: "https://gravatar.com/avatar/bbc05880ed2d059da2397bbb974649ee?size=256&cache=1715040048540"
-    imageTitle: my image
+    imageTitle: "Patrick Paulino"
     # imageWidth: 120
     # imageHeight: 120
     buttons:
@@ -110,7 +110,7 @@ params:
       url: "https://ko-fi.com/pmpaulino"
 
   editPost:
-    URL: "https://github.com/pmpaulino/pmpaulino.dev/content"
+    URL: "https://github.com/pmpaulino/pmpaulino.dev/blob/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
