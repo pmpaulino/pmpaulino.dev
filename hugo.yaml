@@ -1,6 +1,6 @@
 baseURL: https://pmpaulino.dev/
 languageCode: en-us
-title: "Patrick Paulino | DevOps Engineer Specializing in Cloud & Kubernetes"
+title: "Patrick Paulino"
 theme: PaperMod
 pagination:
   pagerSize: 5
@@ -75,7 +75,7 @@ params:
     title: Hey, I'm Patrick.
     subtitle: |
       I'm a Lead DevOps Engineer with a deep passion for technology, adventure, and making meaningful connections. Over the years, I've had the opportunity to work on a wide range of projects, from optimizing infrastructure to implementing cloud-native solutions like Kubernetes. My curiosity constantly drives me to explore new tools, refine processes, and solve complex problems. <br><br>
-      
+
       I thrive on collaboration, especially in dynamic environments where teamwork and communication are essential. Whether it's conducting post-mortems to learn from past incidents or diving into cutting-edge technologies, I'm always looking for ways to innovate and improve. <br><br>
 
       When I'm not working, you can often find me outdoors, seeking adventure through mountain biking, snowboarding, or exploring new trails. The challenges I face in these activities mirror my approach to engineering—always pushing the limits and striving for continuous improvement. <br><br>
