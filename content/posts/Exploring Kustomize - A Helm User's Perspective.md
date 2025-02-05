@@ -1,7 +1,7 @@
 ---
 author: pmpaulino
 title: Exploring Kustomize
-date: 2025-03-05
+date: 2025-02-05
 description: A Helm User's Perspective
 tags:
   - k8s
@@ -10,7 +10,6 @@ tags:
 ShowToc: false
 TocOpen: false
 ---
-### Exploring Kustomize - A Helm User's Perspective
 
 As a DevOps engineer with a background heavily focused on using Helm to manage Kubernetes applications, I've recently started delving into Kustomize. Kustomize is intriguing due to its tight integration with Kubernetes and its purely declarative approach to configuration management. In this post, I'll share insights on why Kustomize might be a viable tool for certain scenarios, especially for those of us accustomed to Helm.
 
